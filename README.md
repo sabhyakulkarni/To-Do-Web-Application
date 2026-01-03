@@ -9,10 +9,10 @@ A secure full-stack task management system built using React, Node.js, Express, 
 - Responsive UI
 
 ## Tech Stack
-Frontend: React  
-Backend: Node.js, Express  
-Database: MongoDB  
-Authentication: JWT
+-Frontend: React  
+-Backend: Node.js, Express  
+-Database: MongoDB  
+-Authentication: JWT
 
 ## Setup
 1. Clone repository
